@@ -1,4 +1,4 @@
-package ru.sawtooth.model.entities;
+package ru.sawtooth.model.entity;
 
 import java.util.ArrayList;
 import java.util.List;

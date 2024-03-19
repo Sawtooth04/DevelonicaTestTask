@@ -1,7 +1,7 @@
 package ru.sawtooth.model;
 
-import ru.sawtooth.model.entities.Task;
-import ru.sawtooth.model.entities.TaskGroup;
+import ru.sawtooth.model.entity.Task;
+import ru.sawtooth.model.entity.TaskGroup;
 
 import java.util.ArrayList;
 import java.util.Date;

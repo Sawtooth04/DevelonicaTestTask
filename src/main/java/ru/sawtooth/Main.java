@@ -14,7 +14,7 @@ import ru.sawtooth.view.ViewStorage;
 
 public class Main {
     public static void main(String[] args) {
-        ViewStorage view = new DefaultViewStorage(new DefaultPagesClassLoader(), "ru.sawtooth.view.pages");
+        ViewStorage view = new DefaultViewStorage(new DefaultPagesClassLoader(), "ru.sawtooth.view.page");
         Model model = new DefaultModel();
         SafetyScanner scanner = new DefaultSafetyScanner(System.in);
         EndpointsList endpointsList = new DefaultEndpointsList(scanner);

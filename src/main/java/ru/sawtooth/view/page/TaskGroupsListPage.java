@@ -1,7 +1,7 @@
-package ru.sawtooth.view.pages;
+package ru.sawtooth.view.page;
 
 import ru.sawtooth.model.ViewModel;
-import ru.sawtooth.model.entities.TaskGroup;
+import ru.sawtooth.model.entity.TaskGroup;
 import ru.sawtooth.view.loader.annotation.PageBean;
 
 import java.util.List;

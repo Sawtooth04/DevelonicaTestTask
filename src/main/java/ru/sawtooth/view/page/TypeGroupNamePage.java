@@ -1,4 +1,4 @@
-package ru.sawtooth.view.pages;
+package ru.sawtooth.view.page;
 
 import ru.sawtooth.model.ViewModel;
 import ru.sawtooth.view.loader.annotation.PageBean;

@@ -3,7 +3,7 @@ package ru.sawtooth.view;
 import ru.sawtooth.model.ViewModel;
 import ru.sawtooth.view.loader.PagesClassLoader;
 import ru.sawtooth.view.loader.annotation.PageBean;
-import ru.sawtooth.view.pages.Page;
+import ru.sawtooth.view.page.Page;
 
 import java.lang.reflect.InvocationTargetException;
 import java.util.HashMap;
